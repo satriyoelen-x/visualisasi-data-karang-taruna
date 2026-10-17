@@ -33,3 +33,7 @@ Jumlah anggota berdasarkan status keaktifan.
 Jenis kelamin anggota.
 Usia anggota.
 Rata-rata kehadiran berdasarkan dusun.
+
+Hasil dan Kesimpulan
+
+Hasil visualisasi digunakan untuk memahami distribusi anggota dan membandingkan tingkat partisipasi antar kelompok.
